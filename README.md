@@ -9,8 +9,8 @@ Repository Contains the following:
 
 1. helpers.py - Pre-defined functions
 2. test_functions.py - Evaluation of code
-3. Traffic_Light_Classifier.ipynb: Studnet code
-4. Images: Folder with images
+3. Traffic_Light_Classifier.ipynb: Student code
+4. traffic_light_images.7z: Folder with images zipped, needs extraction for use in the program
 
 Traffic_Light_Classifier.ipynb: Student code
 
